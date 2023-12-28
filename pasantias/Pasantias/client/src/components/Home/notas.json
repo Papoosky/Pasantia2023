@@ -1,0 +1,24 @@
+[
+    {
+      "id": "Entrega1",
+      "Nombre": "Primera entrega",
+      "Fecha": "13/09/2023",
+      "Nota": "6.5",
+      "Feedback": "Muy bien, pero falta mejorar la parte de la interfaz, se ve muy simple y no es muy intuitiva" 
+    },
+    {
+        "id": "Entrega2",
+        "Nombre": "Segunda entrega",
+        "Fecha": "13/10/2023",
+        "Nota": "6.0",
+        "Feedback": "Se notó que con la primera nota te relajaste, no se ve mucho avance en la interfaz, y la parte de la base de datos no está muy bien implementada"
+    },
+    {
+        "id": "Supervisor",
+        "Nombre": "Evaluación Supervisor",
+        "Fecha": "13/11/2023",
+        "Nota": "7.0",
+        "Feedback": "Buen trabajador, se llevaba bien con todos, y después de pasantía, lo contrataremos de inmediato. De hecho lo conociamos desde una feria en la UAI" 
+       }
+]
+  

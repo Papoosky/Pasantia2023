@@ -1,0 +1,132 @@
+.izq{
+    text-align: left !important;
+}
+
+.der{
+    text-align: left !important;
+}
+
+.titulo{
+    display: inline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    table-layout: auto; 
+    /* border-bottom: solid silver 1px; */
+}  
+
+.inicioarea{
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.bordes{
+    margin-right: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    padding: auto;
+}
+
+.table5{
+    margin-top: 5rem !important;
+    border: solid 1px black;
+    padding: 10px;
+    table-layout: auto;
+    display: inline-block; 
+    background-color: white;
+    border-radius: 1rem;
+    /* box-shadow: 0 0px 14px 20px #000000; */
+}
+
+.left{
+    text-align: left !important;
+}
+
+.right{
+    text-align: left !important;
+}
+
+.title{
+    display: inline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    table-layout: auto; 
+    border-bottom: solid silver 1px; 
+}  
+
+.startarea{
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.edges{
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align : middle;
+    border-collapse: collapse;
+    border-spacing: 0;
+    padding: auto;
+    text-align: center;
+
+}
+.edges tr:first-child {
+    vertical-align: middle;
+  }
+
+.table{
+    border: solid 1px silver;
+    padding: 10px;
+    table-layout: auto;
+    display: inline-block;
+    margin-top: 3rem !important; 
+    margin-bottom: 3rem !important; 
+}
+  
+  @media screen and (min-width: 768px) {
+    .table {
+      max-width: 800px;
+      flex-direction: row;
+      justify-content: space-between;
+      
+    }
+  }
+  
+  .edges {
+    border-collapse: collapse;
+  }
+  
+  .edges th,
+  .edges td
+  .edges tr {
+    /* border: 1px solid black; */
+    padding: 10px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .edges th,
+    .edges td {
+      display: block;
+      width: 100%;
+    }
+  }
+  
+
+  .custom-shape-divider-top-1688512345 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1688512345 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 130px;
+}
+
+.custom-shape-divider-top-1688512345 .shape-fill {
+    fill: #FFFFFF;
+}
