@@ -1,5 +1,0 @@
-Flask 
-Flask_CORS
-requests
-flask-mysql
-mysql-connector-python
