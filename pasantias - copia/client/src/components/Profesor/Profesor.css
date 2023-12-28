@@ -1,0 +1,38 @@
+.profesor-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+}
+.profesor-titulo{
+    margin-top: 2rem;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.profesor-subtitulo{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.profesor-curso{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.profesor-curso-titulo{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.toggle-button-profesor {
+    cursor: pointer;
+    font-size: 28px;
+    display: flex;
+}

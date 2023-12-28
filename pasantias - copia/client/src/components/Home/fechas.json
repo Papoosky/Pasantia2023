@@ -1,0 +1,27 @@
+[
+    {
+      "id": "PlazoParaInscribirse",
+      "Nombre": "Plazo para inscribirse",
+      "Fecha": "13/08/2023",
+      "Descripcion": "Los alumnos tienen hasta esta fecha para completar el paso 2 del proceso de pasantías"
+    },
+    {
+      "id": "PlazoPrimeraEntrega",
+      "Nombre": "Plazo para primera entrega",
+      "Fecha": "13/09/2023",
+      "Descripcion": "Tienen hasta esta fecha para entregar el primer informe"
+    },
+    {
+      "id": "PlazoSegundaEntrega",
+      "Nombre": "Plazo para segunda entrega",
+      "Fecha": "13/10/2023",
+      "Descripcion": "Tienen hasta esta fecha para entregar el segundo informe, ánimo, ¡Queda poco!"
+    },
+    {
+      "id": "ResultadosFinales",
+      "Nombre": "Resultados finales",
+      "Fecha": "13/11/2023",
+      "Descripcion": "Los resultados finales se publicarán en esta fecha, les deseamos lo mejor"
+    }
+]
+  

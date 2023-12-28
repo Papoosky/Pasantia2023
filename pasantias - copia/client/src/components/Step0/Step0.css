@@ -1,0 +1,17 @@
+.edge {
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .centered1 {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid silver 2.5px;
+  }
+  
+  .centered2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

@@ -1,0 +1,22 @@
+.container-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+  }
+
+  .Box{
+    /* border: 3px solid #ccc; */
+    margin: auto;
+    padding: 10px;
+    /* padding-top: ; */
+    width: 50%;
+    /* margin-top: 3rem; */
+    text-align: center;
+    background-color: white;
+    color: black;
+    /* margin-top: -10px; */
+    transform:translateY(20vh);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+    border-radius: 10px;
+  }
